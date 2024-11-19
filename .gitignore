@@ -47,3 +47,6 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+04.研究案例1/neiss/injuries.tsv.gz
+04.研究案例1/neiss/population.tsv
+04.研究案例1/neiss/products.tsv
